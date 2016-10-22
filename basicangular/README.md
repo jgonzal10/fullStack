@@ -1,25 +1,6 @@
-# SB Admin rewritten in Angular2 and Bootstrap 4
+##JGO 
 
-Simple Dashboard Admin App built using Angular 2 and Bootstrap 4
-
-This project is a port of the famous Free Admin Bootstrap Theme [SB Admin v2.0](http://startbootstrap.com/template-overviews/sb-admin-2/) to Angular2 Theme.
-
-Powered by [StartAngular](http://startangular.com/) & [StrapUI](http://strapui.com/)
-
-##[Demo](http://rawgit.com/start-angular/SB-Admin-BS4-Angular-2/master/dist/prod/)
-
-`SB Admin BS 4 Angular2` provides the following features:
-
-- Allows you to painlessly update the seed tasks of your already existing project.
-- Ready to go, statically typed build system using gulp for working with TypeScript.
-- Production and development builds.
-- Ahead-of-Time compilation support.
-- Sample unit tests with Jasmine and Karma including code coverage via istanbul.
-- End-to-end tests with Protractor.
-- Development server with Livereload.
-- Following the best practices for your application’s structure.
-- Manager of your type definitions using @types.
-- Has autoprefixer and css-lint support.
+MUSIC APP DEVELOPED WITH ANGULAR
 
 ## How to start
 
