@@ -8,9 +8,6 @@ MUSIC APP DEVELOPED WITH ANGULAR
 
 In order to start the seed use:
 
-```bash
-git clone https://github.com/start-angular/SB-Admin-BS4-Angular-2.git
-cd SB-Admin-BS4-Angular-2
 # install the project's dependencies
 npm install
 # watches your files and uses livereload by default
