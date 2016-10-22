@@ -14,7 +14,7 @@ namespace musicRestful.Models
 
         public ConnectionProvider()
         {
-            this.myConnection2.ConnectionString = @"Data Source=201.24.26.23;Initial Catalog=alodev;Integrated Security=False;User Id=sa;Password=2z1wqt4t;";
+            this.myConnection2.ConnectionString = @"Data Source=;Initial Catalog=alodev;Integrated Security=False;User Id=;Password=;";
 
         }
 
